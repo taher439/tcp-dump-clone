@@ -1,0 +1,12 @@
+Protocoles implementés:
+  -DNS
+  -BOOTP
+  -DHCP
+  -HTTP
+  -FTP
+  -UDP
+  -TCP
+  -IP
+
+pour utiliser l'option filtre (-f) il faut mettre l'argument entre des guillemets comme ceci: sudo ./main -f "port 23"
+pour ne pas créer des confusions sinon pcap risque de ne pas le compiler.
